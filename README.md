@@ -1,7 +1,7 @@
 # Roman-Numerals
 Roman Numerals Addition without conversion to numeric values
 
-#### Algorithm <br />
+#### Algorithm for Addition<br />
   * Substitute for any subtractives in both values; that is; "uncompact" the Roman values.<br />
   * Put the two values together—catenate them.<br />
   * Sort the symbols in order from left-to-right with the "largest" symbols on the left.<br />
